@@ -15,3 +15,6 @@ on the particular product and also help to see the particular product sales in t
 5. Now you can create the Dashboard at you own.
 
 
+## Screenshot of Dashboard
+![E-commerce Sales Dashboard](Screenshot 2025-08-16 131607.png)
+
